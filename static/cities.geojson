@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+        "name": "Delhi", 
+        "capital": "Delhi", 
+        "population": "19M" 
+      },
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [77.2090, 28.6139] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+        "name": "Mumbai", 
+        "capital": "Maharashtra", 
+        "population": "20M" 
+      },
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [72.8777, 19.0760] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+        "name": "Kolkata", 
+        "capital": "West Bengal", 
+        "population": "14M" 
+      },
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [88.3639, 22.5726] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+        "name": "Odisha", 
+        "capital": "Bhubaneswar", 
+        "population": "45M" 
+      },
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [85.0985, 20.9517] 
+      }
+    }
+  ]
+}
